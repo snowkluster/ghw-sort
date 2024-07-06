@@ -2,7 +2,9 @@
 
 To start the application 
 
-`./start.sh`
+```sh
+./start.sh
+```
 
 OR
 
@@ -17,7 +19,9 @@ This will start the flask app at [localhost:5000](http://localhost:5000)
 
 To stop the applicaton
 
-`./start.sh stop`
+```sh
+./start.sh stop
+```
 
 simply pass the `stop` argument to the start script
 
